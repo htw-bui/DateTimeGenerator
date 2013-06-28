@@ -288,7 +288,7 @@ namespace DateTimeGenerator
       {
         return new DateTime(begin.Year, begin.Month, targetDayOfMonth, begin.Hour, begin.Minute, begin.Second);
       }
-      catch (ArgumentOutOfRangeException ex)
+      catch (ArgumentOutOfRangeException)
       {
         return GetExistingBegin(begin, targetDayOfMonth - 1);
       }
