@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DateTimeGenerator")]
-[assembly: AssemblyDescription("This class generates daily, weekly, monthly and yearly date time occurence. It works like google calendar.")]
+[assembly: AssemblyTitle("DateTime Generator")]
+[assembly: AssemblyDescription("This class generates daily, weekly, monthly and yearly date time occurences. It works like Google calendar appointment generation.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HTW Berlin")]
 [assembly: AssemblyProduct("DateTimeGenerator")]
-[assembly: AssemblyCopyright("Copyright ©  HTW Berlin 2013")]
+[assembly: AssemblyCopyright("Copyright © HTW Berlin 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
